@@ -2,7 +2,7 @@
 
 # Experimental Books Workshop Catalogue
 
-This repository contains materials for the Publishing from Collections: Introducing Computational Publishing for Culture workshop organised by Dr. Simon Worthington (Open Science Lab, TIB Hannover) for the [Experimental Books - Re-imagining Scholarly Publishing](https://experimentalbooks.pubpub.org/) conference held online on 2023-02-20.
+This repository contains materials for the Publishing from Collections: Introducing Computational Publishing for Culture workshop organised by Simon Worthington (Open Science Lab, TIB Hannover) for the [Experimental Books - Re-imagining Scholarly Publishing](https://experimentalbooks.pubpub.org/) conference held online on 2023-02-20.
 
 Computational publishing was developed in the life sciences and STEM subjects to allow publishers and authors to embed executable code, visualisations and advanced media objects alongside conventional text in a document. This hands-on workshop demonstrates one way how humanities scholars might use computational publishing.
 
